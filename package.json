@@ -2,6 +2,14 @@
   "name": "reload-server",
   "version": "0.1.0",
   "description": "",
+  "homepage": "https://github.com/whaaaley/reload-server#readme",
+  "bugs": {
+    "url": "https://github.com/whaaaley/reload-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaaaley/reload-server.git"
+  },
   "license": "ISC",
   "author": "Dustin Dowell",
   "main": "index.js",
