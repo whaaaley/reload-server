@@ -17,6 +17,6 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm publish --access public && npm publish --registry=https://npm.pkg.github.com"
   }
 }
